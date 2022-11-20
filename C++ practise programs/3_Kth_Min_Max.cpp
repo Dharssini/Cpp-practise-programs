@@ -11,6 +11,6 @@ int main()
  
     std::cout << "The min element is " << *min << std::endl;
     std::cout << "The max element is " << *max << std::endl;
- 
+
     return 0;
 }
